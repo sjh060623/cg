@@ -10,7 +10,7 @@ export default function About() {
       </svg>
       <p class="leading-relaxed text-9xl">청강학원</p>
       <span class="inline-block h-1 w-10 rounded bg-indigo-500 mt-8 mb-6"></span>
-      <h2 class="text-gray-900 font-medium title-font tracking-wider text-sm">학생들을 생각합니다</h2>
+      <h2 class="text-gray-500">학생들을 생각합니다</h2>
       <p class="text-gray-500">"스스로" 를 중시합니다</p>
     </div>
   </div>
