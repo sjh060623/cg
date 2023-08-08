@@ -22,7 +22,7 @@ export default function Course() {
         marginheight="0"
         marginwidth="0"
         scrolling="no"
-        src="http://sjh0623.iptime.org:15532"
+        src="http://youtube.com"
       ></iframe>
       <div
         style={{

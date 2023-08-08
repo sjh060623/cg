@@ -1,5 +1,4 @@
 import Image from "next/image";
-import { projectIds } from "../course/page";
 export default function About() {
   return (
     <>
