@@ -15,6 +15,7 @@ export default function Header() {
       <Link className="mr-5 text-gray-500 hover:text-indigo-500 dark:hover:text-white" href="/">Home</Link>
       <Link className="mr-5 text-gray-500 hover:text-indigo-500 dark:hover:text-white" href="/course">Course</Link>
       <Link className="mr-5 text-gray-500 hover:text-indigo-500 dark:hover:text-white" href="/about">About</Link>
+      <Link className="mr-5 text-gray-500 hover:text-indigo-500 dark:hover:text-white" href="/chat">Chat</Link>
 
     </nav>
 
