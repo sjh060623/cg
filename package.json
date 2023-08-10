@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@vercel/analytics": "^1.0.2",
     "autoprefixer": "10.4.14",
     "cloudinary-video-player": "^1.9.12",
     "dotenv": "^16.3.1",
