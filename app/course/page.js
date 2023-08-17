@@ -17,7 +17,7 @@ export default function Course() {
               <Link href="/rule" class="inline-flex  text-gray-700 bg-gray-100  border-0 py-2 px-6 focus:outline-none hover:bg-gray-200  rounded text-lg">
                 이용규칙
               </Link>
-              <Link href="http://sjh0623.iptime.org:15532/login/" class="ml-4 inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
+              <Link href="http://sjh0623.iptime.org:21733/login/" class="ml-4 inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
                 보러가기
               </Link>
             </div>
