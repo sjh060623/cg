@@ -26,3 +26,5 @@ export default function Course() {
       </section>
   );
 }
+//git commit -m "v.0"
+//git push -u origin main
