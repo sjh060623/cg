@@ -6,15 +6,17 @@ import "app/globals.css";
 
 const inter = Inter({ subsets: ["latin"] });
 
-
 export const metadata = {
-  title: '청강학원',
+  title: "청강학원",
 };
 
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className="bg-white dark:bg-stone-900" style={{ fontFamily: "font" }}>
+      <body
+        className="bg-white dark:bg-stone-900"
+        style={{ fontFamily: "font" }}
+      >
         <Header />
         {children}
         <Footer />
