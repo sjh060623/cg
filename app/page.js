@@ -18,7 +18,7 @@ export default function App() {
               청강학원
             </h1>
             <Analytics />
-            <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto text-gray-500s">
+            <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
               청강학원에서 학습력과 성적을 올려보세요
             </p>
             <div className="flex mt-6 justify-center">
@@ -30,6 +30,9 @@ export default function App() {
               시작하기
             </button>
           </Link>
+          <p className="text-base leading-relaxed text-center mt-5 text-gray-200">
+              크롬과 삼성인터넷에서 강의재생오류가 있습니다. 사파리나 카카오톡 링크열기 사용부탁합니다.
+            </p>
         </div>
         <div className="translate-y-12 bg-[#272d39] py-12 rotate-3" />
       </section>
