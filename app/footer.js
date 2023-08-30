@@ -6,33 +6,25 @@ export default function Footer() {
 
   return (
     <div>
-      <footer className="text-gray-600 body-font bg-white dark:bg-stone-900">
+      <footer className="body-font bg-[#1a1e2b]">
         <div className="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col">
           <Link
             href="/"
-            className="flex title-font font-medium items-center md:justify-start justify-center text-gray-900 dark:text-white"
+            className="flex title-font font-medium items-center md:justify-start justify-center text-white"
           >
-            <Image
-              src={require("../public/logoa.png")}
-              width="35"
-              height="35"
-              className="opacity-100 dark:opacity-0 "
-              style={{ position: "absolute" }}
-            />
             <Image
               src={require("../public/logob.png")}
               width="35"
               height="35"
-              className="opacity-0 dark:opacity-100"
             />
 
-            <span className="ml-3 text-xl">청강학원</span>
+            <span className="ml-3 mr-3 text-xl">청강학원</span>
           </Link>
-          <p className="text-sm dark:text-white text-gray-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4">
+          <p className="text-sm text-white text-whitesm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4">
             © {date} Chunggang —
             <Link
               href="https://twitter.com/knyttneve"
-              className="text-gray-600 ml-1 dark:text-white"
+              className=" ml-1 text-white"
               rel="noopener noreferrer"
               target="_blank"
             >
@@ -47,8 +39,8 @@ export default function Footer() {
             >
               <Image
                 src={require("../public/you.png")}
-                width="35"
-                height="35"
+                width="30"
+                height="30"
               />
             </Link>
             <Link
@@ -58,8 +50,8 @@ export default function Footer() {
             >
               <Image
                 src={require("../public/info.png")}
-                width="32"
-                height="32"
+                width="30"
+                height="30"
               />
             </Link>
             <Link

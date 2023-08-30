@@ -1,29 +1,76 @@
-"use client";
-
 import Link from "next/link";
-import Anim from "../components/anim";
-import Math from "../components/math";
+import Card from "../components/card";
 
 export default function Course() {
   return (
-      <section className="text-gray-600 body-font ">
-        <div className="container mx-auto flex px-5 py-24 items-center justify-center flex-col">
-          <Math />
-          <div className="text-center lg:w-2/3 w-full">
-            <h1 className="title-font sm:text-4xl dark:text-white text-3xl dark:text-whi mb-4 font-medium text-gray-900">
-              수학강의보기
+    <>
+      <section className="bg-[#272d39] ">
+        <div className="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
+          <div className="mx-auto max-w-screen-sm text-center">
+            <h1 className=" text-7xl tracking-tight font-extrabold lg:text-6xl text-white text-primary-600 dark:text-primary-500 translate-y-40 mb-44">
+              All Course
             </h1>
-            <div className="flex justify-center">
-              <Link href="/rule" className="inline-flex  text-gray-700 bg-gray-100  border-0 py-2 px-6 focus:outline-none hover:bg-gray-200  rounded text-lg">
-                이용규칙
-              </Link>
-              <Link href="http://sjh0623.iptime.org:21733/login/" className="ml-4 inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
-                보러가기
-              </Link>
-            </div>
+            <p className="mb-4 text-xl tracking-tight font-bold md:text-2xl text-white">
+              모든강의 보기
+            </p>
+            <p className="mb-4 text-lg font-light text-gray-400">
+              수학의 바이블 강의를 볼 수 있습니다.{" "}
+            </p>
           </div>
         </div>
       </section>
+      <div className="flex flex-wrap mt-20 justify-center">
+        <Link href="/mathh">
+          <Card
+            img={require("public/bibles.jpeg")}
+            num="76강"
+            title="수학의 바이블 수(상)"
+          />
+        </Link>
+        <Link href="/mathl">
+          <Card
+            img={require("public/bibleh.jpeg")}
+            num="57강"
+            title="수학의 바이블 수(하)"
+          />
+        </Link>
+        <Link href="/mathone">
+          <Card
+            img={require("public/bible1.jpeg")}
+            num="42강"
+            title="수학의 바이블 수1 - 미완"
+          />
+        </Link>
+        <Link href="/mathtwo">
+          <Card
+            img={require("public/bible2.jpeg")}
+            num="47강"
+            title="수학의 바이블 수2"
+          />
+        </Link>
+        <Link href="/mathht">
+          <Card
+            img={require("public/bibleht.jpeg")}
+            num="0강"
+            title="수학의 바이블 확률과 통계 - 예정"
+          />
+        </Link>
+        <Link href="/mathgi">
+          <Card
+            img={require("public/biblegi.jpeg")}
+            num="0강"
+            title="수학의 바이블 기하 - 예정"
+          />
+        </Link>
+        <Link href="/mathmi">
+          <Card
+            img={require("public/biblemi.jpeg")}
+            num="0강"
+            title="수학의 바이블 미적분 - 예정"
+          />
+        </Link>
+      </div>
+    </>
   );
 }
 //git commit -m "v.0"

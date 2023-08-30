@@ -13,10 +13,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body
-        className="bg-white dark:bg-stone-900"
-        style={{ fontFamily: "font" }}
-      >
+      <body className="bg-[#1a1e2b]" style={{ fontFamily: "font" }}>
         <Header />
         {children}
         <Footer />

@@ -1,0 +1,51 @@
+ <div className="flex flex-wrap mt-20 justify-center">
+      <Link href="http://sjh0623.iptime.org:14131/api/public/dl/-N8o408O/%EC%B2%AD%EA%B0%95/%E1%84%89%E1%85%AE%E1%84%92%E1%85%A1%E1%86%A8%E1%84%8B%E1%85%B4%20%E1%84%87%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%87%E1%85%B3%E1%86%AF%20(%E1%84%89%E1%85%A1%E1%86%BC).pdf" download="수학의 바이블 (상)">
+          <DownCard
+            img={require("public/bibles.jpeg")}
+            num="16.44MB"
+            title="수학의 바이블 수(상)"
+          />
+        </Link>
+        <Link  href="http://sjh0623.iptime.org:14131/api/public/dl/s6CfwUq6/%EC%B2%AD%EA%B0%95/%E1%84%89%E1%85%AE%E1%84%92%E1%85%A1%E1%86%A8%E1%84%8B%E1%85%B4%20%E1%84%87%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%87%E1%85%B3%E1%86%AF%20(%E1%84%92%E1%85%A1).pdf" download="수학의 바이블 (하)">
+          <DownCard
+            img={require("public/bibleh.jpeg")}
+            num="31.09MB"
+            title="수학의 바이블 수(하)"
+          />
+        </Link>
+        <Link  href="http://sjh0623.iptime.org:14131/api/public/dl/A914ukWa/%EC%B2%AD%EA%B0%95/%E1%84%89%E1%85%AE%E1%84%92%E1%85%A1%E1%86%A8%E1%84%8B%E1%85%B4%20%E1%84%87%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%87%E1%85%B3%E1%86%AF%20%E1%84%89%E1%85%AE%E1%84%92%E1%85%A1%E1%86%A8%20I.pdf" download="수학의 바이블 수I">
+          <DownCard
+            img={require("public/bible1.jpeg")}
+            num="13.63MB"
+            title="수학의 바이블 수1"
+          />
+        </Link>
+        <Link  href="http://sjh0623.iptime.org:14131/api/public/dl/gOrk0dXc/%EC%B2%AD%EA%B0%95/%E1%84%89%E1%85%AE%E1%84%92%E1%85%A1%E1%86%A8%E1%84%8B%E1%85%B4%20%E1%84%87%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%87%E1%85%B3%E1%86%AF%20%E1%84%89%E1%85%AE%E1%84%92%E1%85%A1%E1%86%A8%20II.pdf" download="수학의 바이블 수II">
+          <DownCard
+            img={require("public/bible2.jpeg")}
+            num="18.17MB"
+            title="수학의 바이블 수2"
+          />
+        </Link>
+        <Link href="http://sjh0623.iptime.org:14131/api/public/dl/d7_KgVho/%EC%B2%AD%EA%B0%95/%E1%84%89%E1%85%AE%E1%84%92%E1%85%A1%E1%86%A8%E1%84%8B%E1%85%B4%20%E1%84%87%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%87%E1%85%B3%E1%86%AF%20(%E1%84%92%E1%85%AA%E1%86%A8%E1%84%90%E1%85%A9%E1%86%BC).pdf" download="수학의 바이블 (확통)">
+          <DownCard
+            img={require("public/bibleht.jpeg")}
+            num="16.73MB"
+            title="수학의 바이블 확률과 통계"
+          />
+        </Link>
+        <Link href="http://sjh0623.iptime.org:14131/api/public/dl/ugjitRER/%EC%B2%AD%EA%B0%95/%E1%84%89%E1%85%AE%E1%84%92%E1%85%A1%E1%86%A8%E1%84%8B%E1%85%B4%20%E1%84%87%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%87%E1%85%B3%E1%86%AF%20%E1%84%80%E1%85%B5%E1%84%92%E1%85%A1.pdf" download="수학의 바이블 기하">
+          <DownCard
+            img={require("public/biblegi.jpeg")}
+            num="19MB"
+            title="수학의 바이블 기하"
+          />
+        </Link>
+        <Link href="http://sjh0623.iptime.org:14131/api/public/dl/Q8Hem2w7/%EC%B2%AD%EA%B0%95/%E1%84%89%E1%85%AE%E1%84%92%E1%85%A1%E1%86%A8%E1%84%8B%E1%85%B4%20%E1%84%87%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%87%E1%85%B3%E1%86%AF%20%E1%84%86%E1%85%B5%E1%84%8C%E1%85%A5%E1%86%A8%E1%84%87%E1%85%AE%E1%86%AB.pdf" download="수학의 바이블 미적분">
+          <DownCard
+            img={require("public/biblemi.jpeg")}
+            num="50.03MB"
+            title="수학의 바이블 미적분"
+          />
+        </Link>
+      </div>
