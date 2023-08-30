@@ -4,9 +4,9 @@ import Card from "../components/card";
 export default function Course() {
   return (
     <>
-      <section className="bg-[#272d39] ">
-        <div className="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
-          <div className="mx-auto max-w-screen-sm text-center">
+      <section className="bg-[#272d39] sticky ">
+        <div className="py-8  lg:py-16 ">
+          <div className=" text-center">
             <h1 className=" text-7xl tracking-tight font-extrabold lg:text-6xl text-white text-primary-600 dark:text-primary-500 translate-y-40 mb-44">
               All Course
             </h1>

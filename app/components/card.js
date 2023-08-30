@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Card({ title, num, img }) {
   return (
-    <div class="w-full max-w-sm ml-10 mb-10 border rounded-lg shadow bg-gray-800 border-gray-700">
+    <div class="w-full max-w-sm  mb-10 border rounded-lg shadow bg-gray-800 border-gray-700">
       <p href="#">
         <Image className="p-8" src={img} alt="product image" />
       </p>
