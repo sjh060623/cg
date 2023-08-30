@@ -14,7 +14,7 @@ export default function App() {
       <section className="body-font bg-[#272d39]">
         <div className="container px-5 mx-auto text-white">
           <div className="text-center">
-            <h1 className="text-7xl font-medium title-font text-white translate-y-40 mb-44">
+            <h1 className="text-7xl font-medium title-font text-white translate-y-48 mb-48">
               청강학원
             </h1>
             <Analytics />
