@@ -13,7 +13,6 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-        <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"></meta>
       <body className="bg-[#1a1e2b]" style={{ fontFamily: "font" }}>
         <Header />
         {children}
