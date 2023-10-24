@@ -20,19 +20,19 @@ export default function Header() {
           </Link>
           <Link
             className="mr-5  hover:text-indigo-500 text-white"
-            href="/"
+            href="/course"
           >
             Course
           </Link>
           <Link
             className="mr-5  hover:text-indigo-500 text-white"
-            href="/"
+            href="/download"
           >
             Download
           </Link>
           <Link
             className="mr-5  hover:text-indigo-500 text-white"
-            href="/"
+            href="/about"
           >
             About
           </Link>
