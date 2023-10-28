@@ -4,24 +4,37 @@ import Image from "next/image";
 
 export default function Mathone() {
   return (
-    <section class="translate-y-40 p-3 sm:p-5 mb-44">
-      <div class="mx-auto max-w-screen-xl px-4 lg:px-12">
-        <div class="bg-gray-800 relative shadow-md sm:rounded-lg overflow-hidden">
-          <div class="flex flex-col md:flex-row items-center justify-between space-y-3 md:space-y-0 md:space-x-4 p-4">
-            <div class="w-full md:w-auto flex flex-col md:flex-row space-y-2 md:space-y-0 items-stretch md:items-center justify-end md:space-x-3 flex-shrink-0">
-              <div class="flex items-center space-x-3 w-full md:w-auto">
-                <h1 className="text-white text-3xl">수학의 바이블 수1</h1>
-                <Link className="flex text-white" href="http://sjh0623.iptime.org:14131/api/public/dl/A914ukWa/%EC%B2%AD%EA%B0%95/%E1%84%89%E1%85%AE%E1%84%92%E1%85%A1%E1%86%A8%E1%84%8B%E1%85%B4%20%E1%84%87%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%87%E1%85%B3%E1%86%AF%20%E1%84%89%E1%85%AE%E1%84%92%E1%85%A1%E1%86%A8%20I.pdf" download="수학의 바이블 수I">
-                <h1>{"　"}교제 다운로드{"　"}</h1>
-                <Image width={20} height={20} src={require("public/download.png")} />
-              </Link>
-              </div>
-            </div>
-          </div>
-          <div class="overflow-x-auto">
-            {/** */}
-            <table class="w-full text-sm text-left text-gray-400">
-              <thead class="text-xs uppercase  bg-gray-700 text-gray-400">
+<section window class=" p-3 sm:-5 translate-y-20 ">
+<div class="mx-auto max-w-screen-xl px-4 lg:px-12">
+  <h1 className=" text-3xl font-bold -translate-y-6">Course</h1>
+  <h1 className=" text-gray-400 text-xl font-bold -translate-y-6">
+  수학의 바이블 수1
+  </h1>
+  <div class="bg-white  relative shadow-2xl sm:rounded-lg overflow-hidden rounded-xl">
+    <div class="flex flex-col md:flex-row items-center justify-between space-y-3 md:space-y-0 md:space-x-4 p-4">
+      <div class="w-full md:w-auto flex flex-col md:flex-row space-y-2 md:space-y-0 items-stretch md:items-center justify-end md:space-x-3 flex-shrink-0">
+        <div class="flex items-center space-x-3 w-full md:w-auto">
+          {/*
+          <h1 className="text-white text-3xl">수학의 바이블 수1</h1>
+          <Link className="flex text-white" href="http://sjh0623.iptime.org:14131/api/public/dl/A914ukWa/%EC%B2%AD%EA%B0%95/%E1%84%89%E1%85%AE%E1%84%92%E1%85%A1%E1%86%A8%E1%84%8B%E1%85%B4%20%E1%84%87%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%87%E1%85%B3%E1%86%AF%20%E1%84%89%E1%85%AE%E1%84%92%E1%85%A1%E1%86%A8%20I.pdf" download="수학의 바이블 수I">
+
+            <h1>
+              {"　"}교제 다운로드{"　"}
+            </h1>
+            <Image
+              width={20}
+              height={20}
+              src={require("public/download.png")}
+            />
+          </Link>
+  */}
+        </div>
+      </div>
+    </div>
+    <div class="overflow-x-auto">
+                {/** */}
+                <table class="w-full text-sm text-left text-gray-400">
+                <thead class="text-xl uppercase text-center bg-white text-black">
                 <tr>
                   <th scope="col" class="px-4 py-3">
                     지수
@@ -59,7 +72,7 @@ export default function Mathone() {
             {/** */}
             {/** */}
             <table class="w-full text-sm text-left text-gray-400">
-              <thead class="text-xs uppercase  bg-gray-700 text-gray-400">
+            <thead class="text-xl uppercase text-center bg-white text-black">
                 <tr>
                   <th scope="col" class="px-4 py-3">
                     로그
@@ -112,7 +125,7 @@ export default function Mathone() {
             {/** */}
             {/** */}
             <table class="w-full text-sm text-left text-gray-400">
-              <thead class="text-xs uppercase  bg-gray-700 text-gray-400">
+            <thead class="text-xl uppercase text-center bg-white text-black">
                 <tr>
                   <th scope="col" class="px-4 py-3">
                     지수함수
@@ -168,7 +181,7 @@ export default function Mathone() {
             {/** */}
             {/** */}
             <table class="w-full text-sm text-left text-gray-400">
-              <thead class="text-xs uppercase  bg-gray-700 text-gray-400">
+            <thead class="text-xl uppercase text-center bg-white text-black">
                 <tr>
                   <th scope="col" class="px-4 py-3">
                     로그함수
@@ -223,7 +236,7 @@ export default function Mathone() {
             {/** */}
             {/** */}
             <table class="w-full text-sm text-left text-gray-400">
-              <thead class="text-xs uppercase  bg-gray-700 text-gray-400">
+            <thead class="text-xl uppercase text-center bg-white text-black">
                 <tr>
                   <th scope="col" class="px-4 py-3">
                     로그 방정식 / 부등식
@@ -277,7 +290,7 @@ export default function Mathone() {
             {/** */}
             {/** */}
             <table class="w-full text-sm text-left text-gray-400">
-              <thead class="text-xs uppercase  bg-gray-700 text-gray-400">
+            <thead class="text-xl uppercase text-center bg-white text-black">
                 <tr>
                   <th scope="col" class="px-4 py-3">
                     삼각함수
@@ -320,7 +333,7 @@ export default function Mathone() {
             {/** */}
             {/** */}
             <table class="w-full text-sm text-left text-gray-400">
-              <thead class="text-xs uppercase  bg-gray-700 text-gray-400">
+            <thead class="text-xl uppercase text-center bg-white text-black">
                 <tr>
                   <th scope="col" class="px-4 py-3">
                     삼각함수 그래프 / 활용
@@ -349,7 +362,7 @@ export default function Mathone() {
             {/** */}
             {/** */}
             <table class="w-full text-sm text-left text-gray-400">
-              <thead class="text-xs uppercase  bg-gray-700 text-gray-400">
+            <thead class="text-xl uppercase text-center bg-white text-black">
                 <tr>
                   <th scope="col" class="px-4 py-3">
                     사인법칙 코사인법칙
@@ -378,7 +391,7 @@ export default function Mathone() {
             {/** */}
             {/** */}
             <table class="w-full text-sm text-left text-gray-400">
-              <thead class="text-xs uppercase  bg-gray-700 text-gray-400">
+            <thead class="text-xl uppercase text-center bg-white text-black">
                 <tr>
                   <th scope="col" class="px-4 py-3">
                     등차수열
@@ -405,7 +418,7 @@ export default function Mathone() {
             {/** */}
             {/** */}
             <table class="w-full text-sm text-left text-gray-400">
-              <thead class="text-xs uppercase  bg-gray-700 text-gray-400">
+            <thead class="text-xl uppercase text-center bg-white text-black">
                 <tr>
                   <th scope="col" class="px-4 py-3">
                     등비수열
@@ -431,7 +444,7 @@ export default function Mathone() {
             {/** */}
             {/** */}
             <table class="w-full text-sm text-left text-gray-400">
-              <thead class="text-xs uppercase  bg-gray-700 text-gray-400">
+            <thead class="text-xl uppercase text-center bg-white text-black">
                 <tr>
                   <th scope="col" class="px-4 py-3">
                     여러가지 수열
@@ -463,7 +476,7 @@ export default function Mathone() {
             {/** */}
             {/** */}
             <table class="w-full text-sm text-left text-gray-400">
-              <thead class="text-xs uppercase  bg-gray-700 text-gray-400">
+            <thead class="text-xl uppercase text-center bg-white text-black">
                 <tr>
                   <th scope="col" class="px-4 py-3">
                     수열의 귀납적 정의
@@ -500,9 +513,14 @@ export default function Mathone() {
               </tbody>
             </table>
             {/** */}
-          </div>
-        </div>
-      </div>
-    </section>
+    </div>
+  </div>
+</div>
+</section>
   );
 }
+
+///////////////////////////////////
+
+
+

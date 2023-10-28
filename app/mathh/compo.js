@@ -1,7 +1,7 @@
 "use client";
 
 import "node_modules/video-react/dist/video-react.css";
-import { useState } from "react";
+import {useState} from "react";
 import { Player, ControlBar } from "video-react";
 
 export default function Compo({ title, time, link }) {

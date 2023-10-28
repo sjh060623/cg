@@ -3,7 +3,8 @@ import Link from "next/link";
 
 export default function Footer() {
   const date = new Date().getFullYear();
-
+  return null;
+/*
   return (
     <div>
       <footer className="body-font bg-[#1a1e2b]">
@@ -70,4 +71,6 @@ export default function Footer() {
       </footer>
     </div>
   );
+}
+*/
 }

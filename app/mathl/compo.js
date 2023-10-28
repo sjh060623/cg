@@ -19,7 +19,7 @@ export default function Compo({ title, time, link }) {
               {title} {"　|　"} {time}
             </summary>
             <ul>
-              <li>
+              <li >
                 <Player src={link} autoPlay={false}>
                   <ControlBar autoHide={true} className="my-class" />
                 </Player>
