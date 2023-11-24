@@ -6,8 +6,7 @@ import MainpageCard from "./components/mainpageCard";
 
 import Script from 'next/script';
 
-<Script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3852248362281327"
-crossorigin="anonymous" />
+
 
 export default function Home() {
   const date = new Date().getFullYear();
@@ -16,6 +15,8 @@ export default function Home() {
 
   return (
     <div className=" h-full w-full grid place-items-center  bg-slate-100">
+      <Script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3852248362281327"
+crossorigin="anonymous" />
       {/*header*/}
       <header>
         <h1 className="-translate-x-24 text-3xl font-bold translate-y-6 xl:translate-x-1">
