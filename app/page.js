@@ -4,6 +4,11 @@ import Image from "next/image";
 import Link from "next/link";
 import MainpageCard from "./components/mainpageCard";
 
+import Script from 'next/script';
+
+<Script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3852248362281327"
+crossorigin="anonymous" />
+
 export default function Home() {
   const date = new Date().getFullYear();
   const date2 = new Date().getDate();
