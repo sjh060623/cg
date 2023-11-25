@@ -341,21 +341,21 @@ export default function Mathone() {
                 </tr>
               </thead>
               <tbody>
-                <Compo title="43강 - 삼각함수 그래프(1)" time="45분" link="" />
-                <Compo title="44강 - 삼각함수 그래프(2)" time="45분" link="" />
-                <Compo title="45강 - 삼각함수 그래프(3)" time="45분" link="" />
-                <Compo title="46강 - 삼각함수 그래프(4)" time="45분" link="" />
+                <Compo title="43강 - 삼각함수 그래프(1)" time="45분" link="http://sjh0623.iptime.org:14131/api/public/dl/c_pDrtGD/%E1%84%89%E1%85%AE1_%EB%AF%B8%EC%99%84/43%E1%84%80%E1%85%A1%E1%86%BC-%E1%84%89%E1%85%A1%E1%86%B7%E1%84%80%E1%85%A1%E1%86%A8%E1%84%92%E1%85%A1%E1%86%B7%E1%84%89%E1%85%AE%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%91%E1%85%B3(1).mp4" />
+                <Compo title="44강 - 삼각함수 그래프(2)" time="45분" link="http://sjh0623.iptime.org:14131/api/public/dl/m0kVx_1F/%E1%84%89%E1%85%AE1_%EB%AF%B8%EC%99%84/44%E1%84%80%E1%85%A1%E1%86%BC-%E1%84%89%E1%85%A1%E1%86%B7%E1%84%80%E1%85%A1%E1%86%A8%E1%84%92%E1%85%A1%E1%86%B7%E1%84%89%E1%85%AE%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%91%E1%85%B3(2).mp4.mp4" />
+                <Compo title="45강 - 삼각함수 그래프(3)" time="45분" link="http://sjh0623.iptime.org:14131/api/public/dl/Z5pdc40u/%E1%84%89%E1%85%AE1_%EB%AF%B8%EC%99%84/45%E1%84%80%E1%85%A1%E1%86%BC-%E1%84%89%E1%85%A1%E1%86%B7%E1%84%80%E1%85%A1%E1%86%A8%E1%84%92%E1%85%A1%E1%86%B7%E1%84%89%E1%85%AE%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%91%E1%85%B3(3).mp4.mp4" />
+                <Compo title="46강 - 삼각함수 그래프(4)" time="45분" link="http://sjh0623.iptime.org:14131/api/public/dl/1ILqjurx/%E1%84%89%E1%85%AE1_%EB%AF%B8%EC%99%84/46%E1%84%80%E1%85%A1%E1%86%BC-%E1%84%89%E1%85%A1%E1%86%B7%E1%84%80%E1%85%A1%E1%86%A8%E1%84%92%E1%85%A1%E1%86%B7%E1%84%89%E1%85%AE%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%91%E1%85%B3(4).mp4.mp4" />
                 <Compo
                   title="47강 - 삼각함수 그래프 기본다지기"
                   time="45분"
-                  link=""
+                  link="http://sjh0623.iptime.org:14131/api/public/dl/oWcSz49G/%E1%84%89%E1%85%AE1_%EB%AF%B8%EC%99%84/47%E1%84%80%E1%85%A1%E1%86%BC-%E1%84%89%E1%85%A1%E1%86%B7%E1%84%80%E1%85%A1%E1%86%A8%E1%84%92%E1%85%A1%E1%86%B7%E1%84%89%E1%85%AE%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%91%E1%85%B3%20%E1%84%80%E1%85%B5%E1%84%87%E1%85%A9%E1%86%AB%20%E1%84%83%E1%85%A1%E1%84%8C%E1%85%B5%E1%84%80%E1%85%B5.mp4"
                 />
                 <Compo
                   title="48강 - 삼각함수 그래프 실력다지기"
                   time="45분"
-                  link=""
+                  link="http://sjh0623.iptime.org:14131/api/public/dl/PjDlshHY/%E1%84%89%E1%85%AE1_%EB%AF%B8%EC%99%84/48%E1%84%80%E1%85%A1%E1%86%BC-%E1%84%89%E1%85%A1%E1%86%B7%E1%84%80%E1%85%A1%E1%86%A8%E1%84%92%E1%85%A1%E1%86%B7%E1%84%89%E1%85%AE%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%91%E1%85%B3%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%85%E1%85%A7%E1%86%A8%20%E1%84%83%E1%85%A1%E1%84%8C%E1%85%B5%E1%84%80%E1%85%B5.mp4"
                 />
-                <Compo title="49강 - 삼각함수 활용 (1)" time="45분" link="" />
+                <Compo title="49강 - 삼각함수 활용 (1)" time="45분" link="http://sjh0623.iptime.org:14131/api/public/dl/OFYdHTCP/%E1%84%89%E1%85%AE1_%EB%AF%B8%EC%99%84/49%E1%84%80%E1%85%A1%E1%86%BC-%E1%84%89%E1%85%A1%E1%86%B7%E1%84%80%E1%85%A1%E1%86%A8%E1%84%92%E1%85%A1%E1%86%B7%E1%84%89%E1%85%AE%20%E1%84%92%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%AD%E1%86%BC(1).mp4" />
                 <Compo title="50강 - 삼각함수 활용 (2)" time="45분" link="" />
               </tbody>
             </table>

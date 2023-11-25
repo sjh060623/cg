@@ -30,7 +30,7 @@ crossorigin="anonymous" />
       <Analytics />
        <MainpageCard rkddmltn="76 강" rkddmldlfma="수학의 바이블 수(상)" mathLink="/mathh" mathImage={require("public/bibles.jpeg")}/>
        <MainpageCard rkddmltn="57 강" rkddmldlfma="수학의 바이블 수(하)" mathLink="/mathl" mathImage={require("public/bibleh.jpeg")}/>
-       <MainpageCard rkddmltn="42 강" rkddmldlfma="수학의 바이블 수1 - 미완" mathLink="/mathone" mathImage={require("public/bible1.jpeg")}/>
+       <MainpageCard rkddmltn="49 강" rkddmldlfma="수학의 바이블 수1 - 미완" mathLink="/mathone" mathImage={require("public/bible1.jpeg")}/>
        <MainpageCard rkddmltn="47 강" rkddmldlfma="수학의 바이블 수2" mathLink="/mathtwo" mathImage={require("public/bible2.jpeg")}/>
        </div>
       <div className="h-screen w-full" />
