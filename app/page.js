@@ -12,6 +12,7 @@ export default function Home() {
   const date = new Date().getFullYear();
   const date2 = new Date().getDate();
   const date3 = new Date().getMonth();
+  console.log(date)
 
   return (
     <div className=" h-full w-full grid place-items-center  bg-slate-100">
