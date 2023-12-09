@@ -4,7 +4,6 @@ import Image from "next/image";
 
 export default function Download() {
   return (
-    <div className="">     
     <section window className="p-3 sm:-5 translate-y-20 ">
     <div className="mx-auto max-w-screen-xl px-4 lg:px-12">
       <h1 className=" text-3xl font-bold -translate-y-6">Download</h1>
@@ -12,9 +11,9 @@ export default function Download() {
       수학의 바이블 교재
       </h1>
       <div className="bg-white  relative shadow-2xl sm:rounded-lg overflow-hidden rounded-xl">
-        <div className="flex flex-col md:flex-row items-center justify-between space-y-3 md:space-y-0 md:space-x-4 p-4">
-          <div className="w-full md:w-auto flex flex-col md:flex-row space-y-2 md:space-y-0 items-stretch md:items-center justify-end md:space-x-3 flex-shrink-0">
-            <div className="flex items-center space-x-3 w-full md:w-auto">
+        <div className="flex flex-col  items-center justify-between space-y-3 md:space-y-0 md:space-x-4 p-4">
+          <div className="w-full flex flex-col  space-y-2 md:space-y-0 items-stretch md:items-center justify-end md:space-x-3 flex-shrink-0">
+            <div className="flex items-center space-x-3 w-auto">
             <table className="w-full text-sm text-left text-gray-400">
                 <thead className="text-xs uppercase text-gray-400">
                   <tr>
@@ -140,9 +139,7 @@ export default function Download() {
       </div>
     </div>
     </section>
-    
-      
-    </div>
+
   );
 }
 
