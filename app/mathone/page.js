@@ -4,17 +4,17 @@ import Image from "next/image";
 
 export default function Mathone() {
   return (
-<section window class=" p-3 sm:-5 translate-y-20 ">
-<div class="mx-auto max-w-screen-xl px-4 lg:px-12">
-  <h1 className=" text-3xl font-bold -translate-y-6">Course</h1>
-  <h1 className=" text-gray-400 text-xl font-bold -translate-y-6">
-  수학의 바이블 수1
-  </h1>
-  <div class="bg-white  relative shadow-2xl sm:rounded-lg overflow-hidden rounded-xl">
-    <div class="flex flex-col md:flex-row items-center justify-between space-y-3 md:space-y-0 md:space-x-4 p-4">
-      <div class="w-full md:w-auto flex flex-col md:flex-row space-y-2 md:space-y-0 items-stretch md:items-center justify-end md:space-x-3 flex-shrink-0">
-        <div class="flex items-center space-x-3 w-full md:w-auto">
-          {/*
+    <section window class=" p-3 sm:-5 translate-y-20 ">
+      <div class="mx-auto max-w-screen-xl px-4 lg:px-12">
+        <h1 className=" text-3xl font-bold -translate-y-6">Course</h1>
+        <h1 className=" text-gray-400 text-xl font-bold -translate-y-6">
+          수학의 바이블 수1
+        </h1>
+        <div class="bg-white  relative shadow-2xl sm:rounded-lg overflow-hidden rounded-xl">
+          <div class="flex flex-col md:flex-row items-center justify-between space-y-3 md:space-y-0 md:space-x-4 p-4">
+            <div class="w-full md:w-auto flex flex-col md:flex-row space-y-2 md:space-y-0 items-stretch md:items-center justify-end md:space-x-3 flex-shrink-0">
+              <div class="flex items-center space-x-3 w-full md:w-auto">
+                {/*
           <h1 className="text-white text-3xl">수학의 바이블 수1</h1>
           <Link className="flex text-white" href="http://sjh0623.iptime.org:14131/api/public/dl/A914ukWa/%EC%B2%AD%EA%B0%95/%E1%84%89%E1%85%AE%E1%84%92%E1%85%A1%E1%86%A8%E1%84%8B%E1%85%B4%20%E1%84%87%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%87%E1%85%B3%E1%86%AF%20%E1%84%89%E1%85%AE%E1%84%92%E1%85%A1%E1%86%A8%20I.pdf" download="수학의 바이블 수I">
 
@@ -28,13 +28,13 @@ export default function Mathone() {
             />
           </Link>
   */}
-        </div>
-      </div>
-    </div>
-    <div class="overflow-x-auto">
-                {/** */}
-                <table class="w-full text-sm text-left text-gray-400">
-                <thead class="text-xl uppercase text-center bg-white text-black">
+              </div>
+            </div>
+          </div>
+          <div class="overflow-x-auto">
+            {/** */}
+            <table class="w-full text-sm text-left text-gray-400">
+              <thead class="text-xl uppercase text-center bg-white text-black">
                 <tr>
                   <th scope="col" class="px-4 py-3">
                     지수
@@ -72,7 +72,7 @@ export default function Mathone() {
             {/** */}
             {/** */}
             <table class="w-full text-sm text-left text-gray-400">
-            <thead class="text-xl uppercase text-center bg-white text-black">
+              <thead class="text-xl uppercase text-center bg-white text-black">
                 <tr>
                   <th scope="col" class="px-4 py-3">
                     로그
@@ -125,7 +125,7 @@ export default function Mathone() {
             {/** */}
             {/** */}
             <table class="w-full text-sm text-left text-gray-400">
-            <thead class="text-xl uppercase text-center bg-white text-black">
+              <thead class="text-xl uppercase text-center bg-white text-black">
                 <tr>
                   <th scope="col" class="px-4 py-3">
                     지수함수
@@ -181,7 +181,7 @@ export default function Mathone() {
             {/** */}
             {/** */}
             <table class="w-full text-sm text-left text-gray-400">
-            <thead class="text-xl uppercase text-center bg-white text-black">
+              <thead class="text-xl uppercase text-center bg-white text-black">
                 <tr>
                   <th scope="col" class="px-4 py-3">
                     로그함수
@@ -236,7 +236,7 @@ export default function Mathone() {
             {/** */}
             {/** */}
             <table class="w-full text-sm text-left text-gray-400">
-            <thead class="text-xl uppercase text-center bg-white text-black">
+              <thead class="text-xl uppercase text-center bg-white text-black">
                 <tr>
                   <th scope="col" class="px-4 py-3">
                     로그 방정식 / 부등식
@@ -290,7 +290,7 @@ export default function Mathone() {
             {/** */}
             {/** */}
             <table class="w-full text-sm text-left text-gray-400">
-            <thead class="text-xl uppercase text-center bg-white text-black">
+              <thead class="text-xl uppercase text-center bg-white text-black">
                 <tr>
                   <th scope="col" class="px-4 py-3">
                     삼각함수
@@ -333,7 +333,7 @@ export default function Mathone() {
             {/** */}
             {/** */}
             <table class="w-full text-sm text-left text-gray-400">
-            <thead class="text-xl uppercase text-center bg-white text-black">
+              <thead class="text-xl uppercase text-center bg-white text-black">
                 <tr>
                   <th scope="col" class="px-4 py-3">
                     삼각함수 그래프 / 활용
@@ -341,10 +341,26 @@ export default function Mathone() {
                 </tr>
               </thead>
               <tbody>
-                <Compo title="43강 - 삼각함수 그래프(1)" time="45분" link="http://sjh0623.iptime.org:14131/api/public/dl/c_pDrtGD/%E1%84%89%E1%85%AE1_%EB%AF%B8%EC%99%84/43%E1%84%80%E1%85%A1%E1%86%BC-%E1%84%89%E1%85%A1%E1%86%B7%E1%84%80%E1%85%A1%E1%86%A8%E1%84%92%E1%85%A1%E1%86%B7%E1%84%89%E1%85%AE%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%91%E1%85%B3(1).mp4" />
-                <Compo title="44강 - 삼각함수 그래프(2)" time="45분" link="http://sjh0623.iptime.org:14131/api/public/dl/m0kVx_1F/%E1%84%89%E1%85%AE1_%EB%AF%B8%EC%99%84/44%E1%84%80%E1%85%A1%E1%86%BC-%E1%84%89%E1%85%A1%E1%86%B7%E1%84%80%E1%85%A1%E1%86%A8%E1%84%92%E1%85%A1%E1%86%B7%E1%84%89%E1%85%AE%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%91%E1%85%B3(2).mp4.mp4" />
-                <Compo title="45강 - 삼각함수 그래프(3)" time="45분" link="http://sjh0623.iptime.org:14131/api/public/dl/Z5pdc40u/%E1%84%89%E1%85%AE1_%EB%AF%B8%EC%99%84/45%E1%84%80%E1%85%A1%E1%86%BC-%E1%84%89%E1%85%A1%E1%86%B7%E1%84%80%E1%85%A1%E1%86%A8%E1%84%92%E1%85%A1%E1%86%B7%E1%84%89%E1%85%AE%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%91%E1%85%B3(3).mp4.mp4" />
-                <Compo title="46강 - 삼각함수 그래프(4)" time="45분" link="http://sjh0623.iptime.org:14131/api/public/dl/1ILqjurx/%E1%84%89%E1%85%AE1_%EB%AF%B8%EC%99%84/46%E1%84%80%E1%85%A1%E1%86%BC-%E1%84%89%E1%85%A1%E1%86%B7%E1%84%80%E1%85%A1%E1%86%A8%E1%84%92%E1%85%A1%E1%86%B7%E1%84%89%E1%85%AE%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%91%E1%85%B3(4).mp4.mp4" />
+                <Compo
+                  title="43강 - 삼각함수 그래프(1)"
+                  time="45분"
+                  link="http://sjh0623.iptime.org:14131/api/public/dl/c_pDrtGD/%E1%84%89%E1%85%AE1_%EB%AF%B8%EC%99%84/43%E1%84%80%E1%85%A1%E1%86%BC-%E1%84%89%E1%85%A1%E1%86%B7%E1%84%80%E1%85%A1%E1%86%A8%E1%84%92%E1%85%A1%E1%86%B7%E1%84%89%E1%85%AE%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%91%E1%85%B3(1).mp4"
+                />
+                <Compo
+                  title="44강 - 삼각함수 그래프(2)"
+                  time="45분"
+                  link="http://sjh0623.iptime.org:14131/api/public/dl/m0kVx_1F/%E1%84%89%E1%85%AE1_%EB%AF%B8%EC%99%84/44%E1%84%80%E1%85%A1%E1%86%BC-%E1%84%89%E1%85%A1%E1%86%B7%E1%84%80%E1%85%A1%E1%86%A8%E1%84%92%E1%85%A1%E1%86%B7%E1%84%89%E1%85%AE%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%91%E1%85%B3(2).mp4.mp4"
+                />
+                <Compo
+                  title="45강 - 삼각함수 그래프(3)"
+                  time="45분"
+                  link="http://sjh0623.iptime.org:14131/api/public/dl/Z5pdc40u/%E1%84%89%E1%85%AE1_%EB%AF%B8%EC%99%84/45%E1%84%80%E1%85%A1%E1%86%BC-%E1%84%89%E1%85%A1%E1%86%B7%E1%84%80%E1%85%A1%E1%86%A8%E1%84%92%E1%85%A1%E1%86%B7%E1%84%89%E1%85%AE%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%91%E1%85%B3(3).mp4.mp4"
+                />
+                <Compo
+                  title="46강 - 삼각함수 그래프(4)"
+                  time="45분"
+                  link="http://sjh0623.iptime.org:14131/api/public/dl/1ILqjurx/%E1%84%89%E1%85%AE1_%EB%AF%B8%EC%99%84/46%E1%84%80%E1%85%A1%E1%86%BC-%E1%84%89%E1%85%A1%E1%86%B7%E1%84%80%E1%85%A1%E1%86%A8%E1%84%92%E1%85%A1%E1%86%B7%E1%84%89%E1%85%AE%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%91%E1%85%B3(4).mp4.mp4"
+                />
                 <Compo
                   title="47강 - 삼각함수 그래프 기본다지기"
                   time="45분"
@@ -355,14 +371,18 @@ export default function Mathone() {
                   time="45분"
                   link="http://sjh0623.iptime.org:14131/api/public/dl/PjDlshHY/%E1%84%89%E1%85%AE1_%EB%AF%B8%EC%99%84/48%E1%84%80%E1%85%A1%E1%86%BC-%E1%84%89%E1%85%A1%E1%86%B7%E1%84%80%E1%85%A1%E1%86%A8%E1%84%92%E1%85%A1%E1%86%B7%E1%84%89%E1%85%AE%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%91%E1%85%B3%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%85%E1%85%A7%E1%86%A8%20%E1%84%83%E1%85%A1%E1%84%8C%E1%85%B5%E1%84%80%E1%85%B5.mp4"
                 />
-                <Compo title="49강 - 삼각함수 활용 (1)" time="45분" link="http://sjh0623.iptime.org:14131/api/public/dl/OFYdHTCP/%E1%84%89%E1%85%AE1_%EB%AF%B8%EC%99%84/49%E1%84%80%E1%85%A1%E1%86%BC-%E1%84%89%E1%85%A1%E1%86%B7%E1%84%80%E1%85%A1%E1%86%A8%E1%84%92%E1%85%A1%E1%86%B7%E1%84%89%E1%85%AE%20%E1%84%92%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%AD%E1%86%BC(1).mp4" />
-                <Compo title="50강 - 삼각함수 활용 (2)" time="45분" link="" />
+                <Compo
+                  title="49강 - 삼각함수 활용 (1)"
+                  time="45분"
+                  link="http://sjh0623.iptime.org:14131/api/public/dl/OFYdHTCP/%E1%84%89%E1%85%AE1_%EB%AF%B8%EC%99%84/49%E1%84%80%E1%85%A1%E1%86%BC-%E1%84%89%E1%85%A1%E1%86%B7%E1%84%80%E1%85%A1%E1%86%A8%E1%84%92%E1%85%A1%E1%86%B7%E1%84%89%E1%85%AE%20%E1%84%92%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%AD%E1%86%BC(1).mp4"
+                />
+                <Compo title="50강 - 삼각함수 활용 (2)" time="45분" link="http://sjh0623.iptime.org:14131/api/public/dl/Hq401WSw/%E1%84%89%E1%85%AE1_%EB%AF%B8%EC%99%84/50%E1%84%80%E1%85%A1%E1%86%BC-%E1%84%89%E1%85%A1%E1%86%B7%E1%84%80%E1%85%A1%E1%86%A8%E1%84%92%E1%85%A1%E1%86%B7%E1%84%89%E1%85%AE%20%E1%84%92%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%AD%E1%86%BC(2).mp4" />
               </tbody>
             </table>
             {/** */}
             {/** */}
             <table class="w-full text-sm text-left text-gray-400">
-            <thead class="text-xl uppercase text-center bg-white text-black">
+              <thead class="text-xl uppercase text-center bg-white text-black">
                 <tr>
                   <th scope="col" class="px-4 py-3">
                     사인법칙 코사인법칙
@@ -370,28 +390,28 @@ export default function Mathone() {
                 </tr>
               </thead>
               <tbody>
-                <Compo title="51강 - 사인법칙 코사인법칙" time="45분" link="" />
+                <Compo title="51강 - 사인법칙 코사인법칙" time="45분" link="http://sjh0623.iptime.org:14131/api/public/dl/j0flnFxI/%E1%84%89%E1%85%AE1_%EB%AF%B8%EC%99%84/51%E1%84%80%E1%85%A1%E1%86%BC-%E1%84%89%E1%85%A1%E1%86%B7%E1%84%80%E1%85%A1%E1%86%A8%E1%84%92%E1%85%A1%E1%86%B7%E1%84%89%E1%85%AE%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%87%E1%85%A5%E1%86%B8%E1%84%8E%E1%85%B5%E1%86%A8%20%E1%84%8F%E1%85%A9%E1%84%89%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%87%E1%85%A5%E1%86%B8%E1%84%8E%E1%85%B5%E1%86%A8(3).mp4" />
                 <Compo
                   title="52강 사인법칙 코사인법칙 기본다지기"
                   time="45분"
-                  link=""
+                  link="http://sjh0623.iptime.org:14131/api/public/dl/kQnUGEqK/%E1%84%89%E1%85%AE1_%EB%AF%B8%EC%99%84/52%E1%84%80%E1%85%A1%E1%86%BC-%E1%84%89%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%87%E1%85%A5%E1%86%B8%E1%84%8E%E1%85%B5%E1%86%A8%20%E1%84%8F%E1%85%A9%E1%84%89%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%87%E1%85%A5%E1%86%B8%E1%84%8E%E1%85%B5%E1%86%A8%20%E1%84%80%E1%85%B5%E1%84%87%E1%85%A9%E1%86%AB%20%E1%84%83%E1%85%A1%E1%84%8C%E1%85%B5%E1%84%80%E1%85%B5.mp4"
                 />
                 <Compo
                   title="53강 사인법칙 코사인법칙 실력다지기(1)"
                   time="45분"
-                  link=""
+                  link="http://sjh0623.iptime.org:14131/api/public/dl/xdsGxA1q/%E1%84%89%E1%85%AE1_%EB%AF%B8%EC%99%84/53%E1%84%80%E1%85%A1%E1%86%BC-%E1%84%89%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%87%E1%85%A5%E1%86%B8%E1%84%8E%E1%85%B5%E1%86%A8%20%E1%84%8F%E1%85%A9%E1%84%89%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%87%E1%85%A5%E1%86%B8%E1%84%8E%E1%85%B5%E1%86%A8%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%85%E1%85%A7%E1%86%A8%20%E1%84%83%E1%85%A1%E1%84%8C%E1%85%B5%E1%84%80%E1%85%B5(1).mp4"
                 />
                 <Compo
                   title="54강 사인법칙 코사인법칙 실력다지기(2)"
                   time="45분"
-                  link=""
+                  link="http://sjh0623.iptime.org:14131/api/public/dl/cmELnOdq/%E1%84%89%E1%85%AE1_%EB%AF%B8%EC%99%84/54%E1%84%80%E1%85%A1%E1%86%BC-%E1%84%89%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%87%E1%85%A5%E1%86%B8%E1%84%8E%E1%85%B5%E1%86%A8%20%E1%84%8F%E1%85%A9%E1%84%89%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%87%E1%85%A5%E1%86%B8%E1%84%8E%E1%85%B5%E1%86%A8%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%85%E1%85%A7%E1%86%A8%20%E1%84%83%E1%85%A1%E1%84%8C%E1%85%B5%E1%84%80%E1%85%B5(2).mp4"
                 />
               </tbody>
             </table>
             {/** */}
             {/** */}
             <table class="w-full text-sm text-left text-gray-400">
-            <thead class="text-xl uppercase text-center bg-white text-black">
+              <thead class="text-xl uppercase text-center bg-white text-black">
                 <tr>
                   <th scope="col" class="px-4 py-3">
                     등차수열
@@ -399,26 +419,26 @@ export default function Mathone() {
                 </tr>
               </thead>
               <tbody>
-                <Compo title="55강 - 등차수열(1)" time="45분" link="" />
-                <Compo title="56강 - 등차수열(2)" time="45분" link="" />
-                <Compo title="57강 - 등차수열(3)" time="45분" link="" />
-                <Compo title="58강 - 등차수열 기본다지기" time="45분" link="" />
+                <Compo title="55강 - 등차수열(1)" time="45분" link="http://sjh0623.iptime.org:14131/api/public/dl/Q6esLt1Y/%E1%84%89%E1%85%AE1_%EB%AF%B8%EC%99%84/55%E1%84%80%E1%85%A1%E1%86%BC-%E1%84%83%E1%85%B3%E1%86%BC%E1%84%8E%E1%85%A1%E1%84%89%E1%85%AE%E1%84%8B%E1%85%A7%E1%86%AF(1).mp4" />
+                <Compo title="56강 - 등차수열(2)" time="45분" link="http://sjh0623.iptime.org:14131/api/public/dl/9Y7HGINH/%E1%84%89%E1%85%AE1_%EB%AF%B8%EC%99%84/56%E1%84%80%E1%85%A1%E1%86%BC-%E1%84%83%E1%85%B3%E1%86%BC%E1%84%8E%E1%85%A1%E1%84%89%E1%85%AE%E1%84%8B%E1%85%A7%E1%86%AF(2).mp4" />
+                <Compo title="57강 - 등차수열(3)" time="45분" link="http://sjh0623.iptime.org:14131/api/public/dl/kLRsNSWj/%E1%84%89%E1%85%AE1_%EB%AF%B8%EC%99%84/57%E1%84%80%E1%85%A1%E1%86%BC-%E1%84%83%E1%85%B3%E1%86%BC%E1%84%8E%E1%85%A1%E1%84%89%E1%85%AE%E1%84%8B%E1%85%A7%E1%86%AF(3).mp4" />
+                <Compo title="58강 - 등차수열 기본다지기" time="45분" link="http://sjh0623.iptime.org:14131/api/public/dl/bjgZ6jTD/%E1%84%89%E1%85%AE1_%EB%AF%B8%EC%99%84/58%E1%84%80%E1%85%A1%E1%86%BC-%E1%84%83%E1%85%B3%E1%86%BC%E1%84%8E%E1%85%A1%E1%84%89%E1%85%AE%E1%84%8B%E1%85%A7%E1%86%AF%20%E1%84%80%E1%85%B5%E1%84%87%E1%85%A9%E1%86%AB%20%E1%84%83%E1%85%A1%E1%84%8C%E1%85%B5%E1%84%80%E1%85%B5.mp4" />
                 <Compo
                   title="59강 - 등차수열 실력다지기(1)"
                   time="45분"
-                  link=""
+                  link="http://sjh0623.iptime.org:14131/api/public/dl/cv7IjCY2/%E1%84%89%E1%85%AE1_%EB%AF%B8%EC%99%84/59%E1%84%80%E1%85%A1%E1%86%BC-%E1%84%83%E1%85%B3%E1%86%BC%E1%84%8E%E1%85%A1%E1%84%89%E1%85%AE%E1%84%8B%E1%85%A7%E1%86%AF%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%85%E1%85%A7%E1%86%A8%20%E1%84%83%E1%85%A1%E1%84%8C%E1%85%B5%E1%84%80%E1%85%B5(1).mp4"
                 />
                 <Compo
                   title="60강 - 등차수열 실력다지기(2)"
                   time="45분"
-                  link=""
+                  link="http://sjh0623.iptime.org:14131/api/public/dl/kaOiJLyG/%E1%84%89%E1%85%AE1_%EB%AF%B8%EC%99%84/60%E1%84%80%E1%85%A1%E1%86%BC-%E1%84%83%E1%85%B3%E1%86%BC%E1%84%8E%E1%85%A1%E1%84%89%E1%85%AE%E1%84%8B%E1%85%A7%E1%86%AF%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%85%E1%85%A7%E1%86%A8%20%E1%84%83%E1%85%A1%E1%84%8C%E1%85%B5%E1%84%80%E1%85%B5(2).mp4"
                 />
               </tbody>
             </table>
             {/** */}
             {/** */}
             <table class="w-full text-sm text-left text-gray-400">
-            <thead class="text-xl uppercase text-center bg-white text-black">
+              <thead class="text-xl uppercase text-center bg-white text-black">
                 <tr>
                   <th scope="col" class="px-4 py-3">
                     등비수열
@@ -444,7 +464,7 @@ export default function Mathone() {
             {/** */}
             {/** */}
             <table class="w-full text-sm text-left text-gray-400">
-            <thead class="text-xl uppercase text-center bg-white text-black">
+              <thead class="text-xl uppercase text-center bg-white text-black">
                 <tr>
                   <th scope="col" class="px-4 py-3">
                     여러가지 수열
@@ -476,7 +496,7 @@ export default function Mathone() {
             {/** */}
             {/** */}
             <table class="w-full text-sm text-left text-gray-400">
-            <thead class="text-xl uppercase text-center bg-white text-black">
+              <thead class="text-xl uppercase text-center bg-white text-black">
                 <tr>
                   <th scope="col" class="px-4 py-3">
                     수열의 귀납적 정의
@@ -513,14 +533,11 @@ export default function Mathone() {
               </tbody>
             </table>
             {/** */}
-    </div>
-  </div>
-</div>
-</section>
+          </div>
+        </div>
+      </div>
+    </section>
   );
 }
 
 ///////////////////////////////////
-
-
-
