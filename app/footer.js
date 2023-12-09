@@ -4,7 +4,7 @@ import Link from "next/link";
 export default function Footer() {
   const date = new Date().getFullYear();
   return null;
-/*
+/* 52 55 56 57 58 59
   return (
     <div>
       <footer className="body-font bg-[#1a1e2b]">
