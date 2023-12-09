@@ -15,6 +15,7 @@ export default function Home() {
   const date2 = new Date().getDate();
   const date3 = new Date().getMonth();
 
+  
   return (
     <div className=" h-full w-full grid place-items-center bg-slate-100">
       <Script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3852248362281327"
