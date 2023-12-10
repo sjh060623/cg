@@ -202,67 +202,67 @@ export default function Mathh() {
                 <Compo
                   title="12강 - 이차방정식과 이차함수(1)"
                   time="51분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%216921&authkey=!ALkzfy1t8TAXz-Us"
+                  link="https://onedrive.live.com/download?resid=92410439578FF532%216921&authkey=!ALkzfy1t8TAXz-U"
                 />
                 <Compo
                   title="13강 - 이차방정식과 이차함수(2)"
                   time="42분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%216925&authkey=!AMj6Fi4KCcSt308s"
+                  link="https://onedrive.live.com/download?resid=92410439578FF532%216925&authkey=!AMj6Fi4KCcSt308"
                 />
                 <Compo
                   title="14강 - 이차방정식과 이차함수(3)"
                   time="50분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%216928&authkey=!ANKUadDunnlQaDAs"
+                  link="https://onedrive.live.com/download?resid=92410439578FF532%216928&authkey=!ANKUadDunnlQaDA"
                 />
                 <Compo
                   title="15강 - 이차방정식과 이차함수(4)"
                   time="38분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%216934&authkey=!AJ393dhQHWmBlzws"
+                  link="https://onedrive.live.com/download?resid=92410439578FF532%216934&authkey=!AJ393dhQHWmBlzw"
                 />
                 <Compo
                   title="16강 - 이차방정식과 이차함수(5)"
                   time="40분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%216940&authkey=!AB5fGiXb0UDrmhgs"
+                  link="https://onedrive.live.com/download?resid=92410439578FF532%216940&authkey=!AB5fGiXb0UDrmhg"
                 />
                 <Compo
                   title="17강 - 이차방정식과 이차함수(6)/삼차방정식과 사차방정식(1)"
                   time="40분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217015&authkey=!ALsRuXNm_5MX3lMs"
+                  link="https://onedrive.live.com/download?resid=92410439578FF532%217015&authkey=!ALsRuXNm_5MX3lM"
                 />
                 <Compo
                   title="18강 - 삼차방정식과 사차방정식(2)"
                   time="33분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%216909&authkey=!AOTKS0_AHXh2W3gs"
+                  link="https://onedrive.live.com/download?resid=92410439578FF532%216909&authkey=!AOTKS0_AHXh2W3g"
                 />
                 <Compo
                   title="19강 - 삼차방정식과 사차방정식(3)"
                   time="44분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%216920&authkey=!AJn4EU9TkuCDDtUs"
+                  link="https://onedrive.live.com/download?resid=92410439578FF532%216920&authkey=!AJn4EU9TkuCDDtU"
                 />
                 <Compo
                   title="20강 - 삼차방정식과 사차방정식(4)"
                   time="35분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%216914&authkey=!AJETQAPSc4jeuDYs"
+                  link="https://onedrive.live.com/download?resid=92410439578FF532%216914&authkey=!AJETQAPSc4jeuDY"
                 />
                 <Compo
                   title="21강 - 삼차방정식과 사차방정식(5)"
                   time="37분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%216918&authkey=!AAYlLykgnrO_yzgs"
+                  link="https://onedrive.live.com/download?resid=92410439578FF532%216918&authkey=!AAYlLykgnrO_yzg"
                 />
                 <Compo
                   title="22강 - 삼차방정식과 사차방정식(6)"
                   time="44분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%216931&authkey=!AAGqb-emAyHfPvws"
+                  link="https://onedrive.live.com/download?resid=92410439578FF532%216931&authkey=!AAGqb-emAyHfPvw"
                 />
                 <Compo
                   title="23강 - 삼차방정식과 사차방정식(7)"
                   time="47분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%216927&authkey=!ABRPahj599Vt_2os"
+                  link="https://onedrive.live.com/download?resid=92410439578FF532%216927&authkey=!ABRPahj599Vt_2o"
                 />
                 <Compo
                   title="24강 - 삼차방정식과 사차방정식(8)/연립방정식(1)"
                   time="45분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217016&authkey=!ADo4Cw67PQSETG4s"
+                  link="https://onedrive.live.com/download?resid=92410439578FF532%217016&authkey=!ADo4Cw67PQSETG4"
                 />
                 <Compo
                   title="25강 - 연립방정식 (2)"
@@ -337,29 +337,122 @@ export default function Mathh() {
                 </tr>
               </thead>
               <tbody>
-                <Compo title="1강 - 평면좌표(1)" time="45분" />
-                <Compo title="2강 - 평면좌표(2)" time="45분" />
-                <Compo title="3강 - 평면좌표(3)" time="40분" />
-                <Compo title="4강 - 평면좌표(4)" time="40분" />
-                <Compo title="5강 - 직선의 방정식(1)" time="42분" />
-                <Compo title="6강 - 직선의 방정식(2)" time="36분" />
-                <Compo title="7강 - 직선의 방정식(3)" time="44분" />
-                <Compo title="8강 - 직선의 방정식(4)" time="34분" />
-                <Compo title="9강 - 직선의 방정식(5)" time="46분" />
-                <Compo title="10강 - 직선의 방정식(6)" time="37분" />
-                <Compo title="11강 - 직선의 방정식(7)" time="44분" />
-                <Compo title="12강 - 원의 방정식(1)" time="47분" />
-                <Compo title="13강 - 원의 방정식(2)" time="44분" />
-                <Compo title="14강 - 원의 방정식(3)" time="40분" />
-                <Compo title="15강 - 원의 방정식(4)" time="38분" />
-                <Compo title="16강 - 원의 방정식(5)" time="47분" />
-                <Compo title="17강 - 원의 방정식(6)" time="44분" />
-                <Compo title="18강 - 원의 방정식(7)" time="32분" />
-                <Compo title="19강 - 도형의 이동(1)" time="39분" />
-                <Compo title="20강 - 도형의 이동(2)" time="40분" />
-                <Compo title="21강 - 도형의 이동(3)" time="25분" />
-                <Compo title="22강 - 도형의 이동(4)" time="51분" />
-                <Compo title="23강 - 도형의 이동(5)" time="24분" />
+                <Compo
+                  title="1강 - 평면좌표(1)"
+                  time="45분"
+                  link="https://onedrive.live.com/download?resid=92410439578FF532%216966&authkey=!AFH2D3x5krog9i8"
+                />
+                <Compo
+                  title="2강 - 평면좌표(2)"
+                  time="45분"
+                  link="https://onedrive.live.com/download?resid=92410439578FF532%216972&authkey=!AIx80A8-o4hIOgk"
+                />
+                <Compo
+                  title="3강 - 평면좌표(3)"
+                  time="40분"
+                  link="https://onedrive.live.com/download?resid=92410439578FF532%216979&authkey=!ABS5oKQ1worBEWg"
+                />
+                <Compo
+                  title="4강 - 평면좌표(4)"
+                  time="40분"
+                  link="https://onedrive.live.com/download?resid=92410439578FF532%216971&authkey=!AL_f-1NuHccusGQ"
+                />
+                <Compo
+                  title="5강 - 직선의 방정식(1)"
+                  time="42분"
+                  link="https://onedrive.live.com/download?resid=92410439578FF532%216980&authkey=!AFDvWVrs3ulvHck"
+                />
+                <Compo
+                  title="6강 - 직선의 방정식(2)"
+                  time="36분"
+                  link="https://onedrive.live.com/download?resid=92410439578FF532%216976&authkey=!AMm0wRfZoVZgUz4"
+                />
+                <Compo
+                  title="7강 - 직선의 방정식(3)"
+                  time="44분"
+                  link="https://onedrive.live.com/download?resid=92410439578FF532%216973&authkey=!ADGAMHphs2DU5ZI"
+                />
+                <Compo
+                  title="8강 - 직선의 방정식(4)"
+                  time="34분"
+                  link="https://onedrive.live.com/download?resid=92410439578FF532%216961&authkey=!ANOLrMb0csSgU3Y"
+                />
+                <Compo
+                  title="9강 - 직선의 방정식(5)"
+                  time="46분"
+                  link="https://onedrive.live.com/download?resid=92410439578FF532%216968&authkey=!AGwXsoaobUhe-m0"
+                />
+                <Compo
+                  title="10강 - 직선의 방정식(6)"
+                  time="37분"
+                  link="https://onedrive.live.com/download?resid=92410439578FF532%216965&authkey=!AN7Ix1CoobW19Fo"
+                />
+                <Compo
+                  title="11강 - 직선의 방정식(7)"
+                  time="44분"
+                  link="https://onedrive.live.com/download?resid=92410439578FF532%216962&authkey=!ALLr9-xV0y2pJJs"
+                />
+                <Compo
+                  title="12강 - 원의 방정식(1)"
+                  time="47분"
+                  link="https://onedrive.live.com/download?resid=92410439578FF532%216981&authkey=!ABt9Da2f9V2RVeQ"
+                />
+                <Compo
+                  title="13강 - 원의 방정식(2)"
+                  time="44분"
+                  link="https://onedrive.live.com/download?resid=92410439578FF532%216964&authkey=!AMymIPe063kPuqU"
+                />
+                <Compo
+                  title="14강 - 원의 방정식(3)"
+                  time="40분"
+                  link="https://onedrive.live.com/download?resid=92410439578FF532%216977&authkey=!AHJ1yN08HyG651E"
+                />
+                <Compo
+                  title="15강 - 원의 방정식(4)"
+                  time="38분"
+                  link="https://onedrive.live.com/download?resid=92410439578FF532%216978&authkey=!AJajRIwkDHcbTm8"
+                />
+                <Compo
+                  title="16강 - 원의 방정식(5)"
+                  time="47분"
+                  link="https://onedrive.live.com/download?resid=92410439578FF532%216963&authkey=!AA-R8WJs-YTYg88"
+                />
+                <Compo
+                  title="17강 - 원의 방정식(6)"
+                  time="44분"
+                  link="https://onedrive.live.com/download?resid=92410439578FF532%216970&authkey=!AIQZxSM2Hth7seE"
+                />
+                <Compo
+                  title="18강 - 원의 방정식(7)"
+                  time="32분"
+                  link="https://onedrive.live.com/download?resid=92410439578FF532%216969&authkey=!AGixBKDEvoV0ok4"
+                />
+                <Compo
+                  title="19강 - 도형의 이동(1)"
+                  time="39분"
+                  link="https://onedrive.live.com/download?resid=92410439578FF532%216967&authkey=!AJWAsqr-9fMrX9I"
+                />
+                <Compo
+                  title="20강 - 도형의 이동(2)"
+                  time="40분"
+                  link="https://onedrive.live.com/download?resid=92410439578FF532%216974&authkey=!ALfxWj7hDazgCjk"
+                />
+                
+                <Compo
+                  title="21강 - 도형의 이동(3)"
+                  time="25분"
+                  link="https://onedrive.live.com/download?resid=92410439578FF532%216960&authkey=!AGyoUgcw9jDfdj0"
+                />
+                <Compo
+                  title="22강 - 도형의 이동(4)"
+                  time="51분"
+                  link="https://onedrive.live.com/download?resid=92410439578FF532%216975&authkey=!AMgR2vDRF7-g1AM"
+                />
+                <Compo
+                  title="23강 - 도형의 이동(5)"
+                  time="24분"
+                  link="https://onedrive.live.com/download?resid=92410439578FF532%216958&authkey=!ACKgg1Bg4QaP1To"
+                />
               </tbody>
             </table>
             {/** */}
