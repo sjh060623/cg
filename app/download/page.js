@@ -1,3 +1,5 @@
+"use client"
+
 import Link from "next/link";
 import DownCard from "../components/downCard";
 import Image from "next/image";
