@@ -20,7 +20,7 @@ export default function Compo({ title, time, link }) {
             </summary>
             <ul>
               <li>
-                <Player src={link} muted={true} autoPlay={false}>
+                <Player src={link} autoPlay={false}>
                   <ControlBar autoHide={true} className="my-class" />
                 </Player>
               </li>
