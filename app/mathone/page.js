@@ -470,6 +470,8 @@ export default function Mathone() {
                 </tr>
               </thead>
               <tbody>
+              <Compo title="61강 - 등비수열(1)" time="45분" link="https://public.bl.files.1drv.com/y4mg-kebwTTq7UzGzBHdELp1B4OeAqJRa1OMIitJkzxYAwJM4vxU3aJIku4nk2SEh0geMl_TD9vbvs_I2nU-_bMSbac358aRMewVSWzdlGWAu6y75qeyIglP-b4AwjQLQmlElQEGavi3L9xRatXNeBsezBa4tyld8Jh7npCITqpW3dCEzpuEff3TUipEwnMvQdKkenHB6OXODlPcm8iO9qJKcWTniWWe5JgQrudbUkJk6s?AVOverride=1&videoformat=hls&part=index" />
+
                 <Compo title="62강 - 등비수열(2)" time="45분" link="" />
                 <Compo title="63강 - 등비수열(3)" time="45분" link="" />
                 <Compo
