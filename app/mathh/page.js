@@ -48,7 +48,7 @@ export default function Mathh() {
                 <Compo
                   title="1강 - 다항식의 연산(1)"
                   time="45분"
-                  link="http://sjh0623.iptime.org:14131/api/public/dl/VlErY6Bu/%E1%84%89%E1%85%AE(%E1%84%89%E1%85%A1%E1%86%BC)/1.%20%E1%84%83%E1%85%A1%E1%84%92%E1%85%A1%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8/1%EA%B0%95%20-%20%EB%8B%A4%ED%95%AD%EC%8B%9D%EC%9D%98%20%EC%97%B0%EC%82%B0(1).mp4"
+                  link="https://onedrive.live.com/download?resid=92410439578FF532%216954&authkey=!ACpEKeX2S7P12FA"
                 />
                 <Compo
                   title="2강 - 다항식의 연산(2)"
@@ -135,7 +135,7 @@ export default function Mathh() {
             {/** */}
             {/** */}
             <table class="w-full text-sm text-left text-gray-400">
-            <thead class="text-xl uppercase text-center bg-white text-black">
+              <thead class="text-xl uppercase text-center bg-white text-black">
                 <tr>
                   <th scope="col" class="px-4 py-3">
                     방정식과 부등식
@@ -328,7 +328,7 @@ export default function Mathh() {
             {/** */}
             {/** */}
             <table class="w-full text-sm text-left text-gray-400">
-            <thead class="text-xl uppercase text-center bg-white text-black">
+              <thead class="text-xl uppercase text-center bg-white text-black">
                 <tr>
                   <th scope="col" class="px-4 py-3">
                     도형의 방정식
