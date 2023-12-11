@@ -8,6 +8,7 @@ import MainpageCard from "./components/mainpageCard";
 
 import Script from 'next/script';
 import DownloadCard from "./components/downloadCard";
+import Admin from "./components/admin";
 
 
 
@@ -31,6 +32,7 @@ crossorigin="anonymous" />
       </header>
       <div className="flex-row">
       <Analytics />
+       <Admin name1="현재 업데이트 진행중입니다." name2="간혹 오류가 발생할 수 있습니다."/>
        <DownloadCard name="교재 PDF 다운로드" link="/download"/>
        <MainpageCard rkddmltn="76 강" rkddmldlfma="수학의 바이블 수(상)" mathLink="/mathh" mathImage={require("public/bibles.jpeg")}/>
        <MainpageCard rkddmltn="57 강" rkddmldlfma="수학의 바이블 수(하)" mathLink="/mathl" mathImage={require("public/bibleh.jpeg")}/>
