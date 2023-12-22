@@ -17,7 +17,6 @@ export default function Home() {
       onContextMenu={(e) => {
         e.preventDefault();
       }}
-      open={open}
       className=" h-full w-full grid place-items-center bg-slate-100"
     >
       <Script
