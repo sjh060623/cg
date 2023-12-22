@@ -11,7 +11,6 @@ export default function Admin({name1, name2 }) {
 
             <div className="flex items-center flex-col justify-between">
               <span className="text-xl text-center font-bold text-gray-900 ">{name1}</span>
-              <span className="text-xl text-center font-bold text-gray-900 ">{name2}</span>
 
              
             </div>
