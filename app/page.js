@@ -63,7 +63,7 @@ export default function Home() {
           mathLink="/mathtwo"
           mathImage={require("public/bible2.jpeg")}
         />
-        <DownloadCard name="개발중인 기능" link="/dev" />
+        <DownloadCard name="개발중인 기능" name2="" link="/dev" />
       </div>
       <div className="h-screen w-full" />
     </div>
