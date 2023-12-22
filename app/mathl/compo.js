@@ -12,14 +12,20 @@ export default function Compo({ title, time, link }) {
   };
   return (
     <>
-      <details open={open} onToggle={onToggle}>
+      <details
+        onContextMenu={(e) => {
+          e.preventDefault();
+        }}
+        open={open}
+        onToggle={onToggle}
+      >
         {open ? (
           <>
             <summary>
               {title} {"　|　"} {time}
             </summary>
             <ul>
-              <li >
+              <li>
                 <Player src={link} autoPlay={false}>
                   <ControlBar autoHide={true} className="my-class" />
                 </Player>

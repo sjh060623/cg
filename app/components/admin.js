@@ -4,8 +4,8 @@ import Link from "next/link";
 export default function Admin({name1, name2 }) {
     return(
         <>
-        <div className="w-80 rounded-2xl translate-y-10 shadow-2xl bg-red-100" >
-        <div class="w-full max-w-sm rounded-lg  bg-red-100 ">
+        <div className="w-80 rounded-2xl translate-y-10 shadow-2xl bg-blue-100" >
+        <div class="w-full max-w-sm rounded-lg  bg-blue-100 ">
          
           <div className="px-5 p-5">
 

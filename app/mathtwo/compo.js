@@ -12,7 +12,14 @@ export default function Compo({ title, time, link }) {
   };
   return (
     <>
-      <details open={open} onToggle={onToggle}>
+    
+      <details
+        onContextMenu={(e) => {
+          e.preventDefault();
+        }}
+        open={open}
+        onToggle={onToggle}
+      >
         {open ? (
           <>
             <summary>
