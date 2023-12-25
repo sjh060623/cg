@@ -63,6 +63,11 @@ export default function Home() {
           mathImage={require("public/bible2.jpeg")}
         />
       </div>
+      <Script
+        async
+        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3852248362281327"
+        crossorigin="anonymous"
+      />
       <div className="h-screen w-full" />
     </div>
   );
