@@ -35,7 +35,7 @@ export default function Home() {
       </header>
       <div className="flex-row">
         <Analytics />
-        <Admin name1="사이트 공유하지말아주세요."/>
+
 
         <DownloadCard name="교재 PDF 다운로드" link="/download" />
         <MainpageCard
