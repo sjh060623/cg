@@ -66,7 +66,6 @@ export default function Home() {
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3852248362281327"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"
-     style="display:block"
      data-ad-client="ca-pub-3852248362281327"
      data-ad-slot="3433331590"
      data-ad-format="auto"
