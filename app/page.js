@@ -33,10 +33,11 @@ export default function Home() {
           {date3 + 1}월 {date2}일
         </h1>
       </header>
+
       <div className="flex-row">
         <Analytics />
 
-
+        {/*
         <DownloadCard name="교재 PDF 다운로드" link="/download" />
         <MainpageCard
           rkddmltn="76 강"
@@ -62,17 +63,23 @@ export default function Home() {
           mathLink="/mathtwo"
           mathImage={require("public/bible2.jpeg")}
         />
+    */}
+        <Admin name1="공사중..." />
       </div>
-      <Script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3852248362281327"
-     crossorigin="anonymous"></Script>
-<ins class="adsbygoogle"
-     data-ad-client="ca-pub-3852248362281327"
-     data-ad-slot="3433331590"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<Script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</Script>
+
+      <Script
+        async
+        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3852248362281327"
+        crossorigin="anonymous"
+      ></Script>
+      <ins
+        class="adsbygoogle"
+        data-ad-client="ca-pub-3852248362281327"
+        data-ad-slot="3433331590"
+        data-ad-format="auto"
+        data-full-width-responsive="true"
+      ></ins>
+      <Script>(adsbygoogle = window.adsbygoogle || []).push({});</Script>
       <div className="h-screen w-full" />
     </div>
   );
