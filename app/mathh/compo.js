@@ -26,9 +26,12 @@ export default function Compo({ title, time, link }) {
             </summary>
             <ul>
               <li>
-                <Player src={link} autoPlay={false}>
-                  <ControlBar autoHide={true} className="my-class" />
-                </Player>
+                <iframe
+                  src="https://1drv.ms/v/c/92410439578ff532/UQMy9Y9XOQRBIICSKhsAAAAAACpEKeX2S7P12FA"
+                  frameborder="0"
+                  scrolling="no"
+                  allowfullscreen
+                ></iframe>
               </li>
             </ul>
           </>
