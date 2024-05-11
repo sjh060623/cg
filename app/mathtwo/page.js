@@ -4,7 +4,7 @@ import Image from "next/image";
 
 export default function Mathtwo() {
   return (
-    <section  window class=" p-3 sm:-5 translate-y-20 ">
+    <section window class=" p-3 sm:-5 translate-y-20 ">
       <div class="mx-auto max-w-screen-xl px-4 lg:px-12">
         <h1 className=" text-3xl font-bold -translate-y-6">Course</h1>
         <h1 className=" text-gray-400 text-xl font-bold -translate-y-6">

@@ -1,7 +1,5 @@
 import "./globals.css";
 import { Inter } from "next/font/google";
-import Header from "./header";
-import Footer from "./footer";
 import "app/globals.css";
 import Head from "next/head";
 
@@ -22,12 +20,9 @@ export default function RootLayout({ children }) {
             href="https://fonts.googleapis.com/css2?family=Inter:wght@900&display=swap"
             rel="stylesheet"
           />
-
         </Head>
-        
-        <Header />
+
         {children}
-        <Footer />
       </body>
     </html>
   );
