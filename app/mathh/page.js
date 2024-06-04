@@ -48,7 +48,7 @@ export default function Mathh() {
                 <Compo
                   title="1강 - 다항식의 연산(1)"
                   time="45분"
-                  link="https://my.microsoftpersonalcontent.com/personal/92410439578ff532/_layouts/15/download.aspx?UniqueId=578ff532-0439-2041-8092-2a1b00000000&Translate=false&tempauth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfZGlzcGxheW5hbWUiOiJDb25zdW1lciBBcHA6IDAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDA0ODE3MTBhNCIsImFwcGlkIjoiMDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtMDAwMDQ4MTcxMGE0IiwiYXVkIjoiMDAwMDAwMDMtMDAwMC0wZmYxLWNlMDAtMDAwMDAwMDAwMDAwL215Lm1pY3Jvc29mdHBlcnNvbmFsY29udGVudC5jb21AOTE4ODA0MGQtNmM2Ny00YzViLWIxMTItMzZhMzA0YjY2ZGFkIiwiY2FjaGVrZXkiOiIwaC5mfG1lbWJlcnNoaXB8MDAwMzQwMDExNzEwMTQzZEBsaXZlLmNvbSIsImNpZCI6Im9TZVd6b1lnQUZDRm9mclFyOUVWcGc9PSIsImVuZHBvaW50dXJsIjoiUi9XUlZNSWZXb1k4ZmU4bHJuMi9EWkZreTlRbTJDczIweFRRWWR1MDcxND0iLCJlbmRwb2ludHVybExlbmd0aCI6IjE1MyIsImV4cCI6IjE3MTU0Mjc4MDMiLCJpcGFkZHIiOiIxMDQuMjguMjE5LjE2MyIsImlzbG9vcGJhY2siOiJUcnVlIiwiaXNzIjoiMDAwMDAwMDMtMDAwMC0wZmYxLWNlMDAtMDAwMDAwMDAwMDAwIiwibmJmIjoiMTcxNTQyNDIwMyIsInB1aWQiOiIwMDAzNDAwMTE3MTAxNDNEIiwic2NwIjoiYWxsc2l0ZXMuZnVsbGNvbnRyb2wiLCJzaWQiOiIxNTQ2OTc3NjI3MzIzMjE1ODY3Iiwic2l0ZWlkIjoiT1dGa01UQXdaalF0TjJOallpMDBPRFEwTFRoaU9XRXRObU16T0RkbE5tTTJOREk0IiwidGlkIjoiOTE4ODA0MGQtNmM2Ny00YzViLWIxMTItMzZhMzA0YjY2ZGFkIiwidHQiOiIyIiwidXBuIjoic2poMDYyM0BvdXRsb29rLmtyIiwidmVyIjoiaGFzaGVkcHJvb2Z0b2tlbiJ9.WZ5JO0nHyNkO_-EWZ2BRqco_aGd7l755yGszIM1FeCM&ApiVersion=2.0"
+                  link="https://youtu.be/7U4wlka-Aik"
                 />
                 <Compo
                   title="2강 - 다항식의 연산(2)"
