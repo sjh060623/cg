@@ -37,7 +37,7 @@ export default function Home() {
       <div className="flex-row">
         <Analytics />
 
-        {/*
+        
         <DownloadCard name="교재 PDF 다운로드" link="/download" />
         <MainpageCard
           rkddmltn="76 강"
@@ -57,14 +57,16 @@ export default function Home() {
           mathLink="/mathone"
           mathImage={require("public/bible1.jpeg")}
         />
+        {/*
         <MainpageCard
           rkddmltn="47 강"
           rkddmldlfma="수학의 바이블 수2"
           mathLink="/mathtwo"
           mathImage={require("public/bible2.jpeg")}
         />
+      
+      <Admin name1="공사중..." />
     */}
-        <Admin name1="공사중..." />
       </div>
 
       <Script
