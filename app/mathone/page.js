@@ -30,32 +30,27 @@ export default function Mathone() {
                 <Compo
                   title="1강 - 지수(1)"
                   time="46분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217103&authkey=!AL_XHNnSHsI7ncU
-"
+                  link="https://youtu.be/B8ZDdS-7Rog"
                 />
                 <Compo
                   title="2강 - 지수(2)"
                   time="49분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217112&authkey=!AP9j7hbLEpETMo4
-"
+                  link="https://youtu.be/Q39vlyXr1dY"
                 />
                 <Compo
                   title="3강 - 지수(3)"
                   time="44분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217082&authkey=!AGFynw0EC_i5af0
-"
+                  link="https://youtu.be/SB0DhsbVHA0"
                 />
                 <Compo
                   title="4강 - 지수 기본다지기"
                   time="41분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217110&authkey=!AA4IXoSd8CCrryc
-"
+                  link="https://youtu.be/lnRD56Gdx6E"
                 />
                 <Compo
                   title="5강 - 지수 실력다지기"
                   time="49분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217108&authkey=!AAp1SrJujIDyDmU
-"
+                  link="https://youtu.be/oDQ4BcHbqec"
                 />
               </tbody>
             </table>
@@ -73,50 +68,42 @@ export default function Mathone() {
                 <Compo
                   title="6강 - 로그(1)"
                   time="58분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217104&authkey=!AH-35B4N2C1O4mA
-"
+                  link="https://youtu.be/Wj0yvQ7NR8I"
                 />
                 <Compo
                   title="7강 - 로그(2)"
                   time="30분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217130&authkey=!ABsIomM9pentplk
-"
+                  link="https://youtu.be/e2ReRVSCt5Y"
                 />
                 <Compo
                   title="8강 - 상용로그(1)"
                   time="48분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217119&authkey=!ACPkmneNUPqw4vI
-"
+                  link="https://youtu.be/NDGE94y-Tog"
                 />
                 <Compo
                   title="9강 - 상용로그(2)"
                   time="34분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217090&authkey=!ADvH8AlVOuKYBhQ
-"
+                  link="https://youtu.be/8b2moISHez8"
                 />
                 <Compo
                   title="10강 - 상용로그(3)"
                   time="45분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217095&authkey=!ADBCSAeH0FQpJRw
-"
+                  link="https://youtu.be/6JKiDp1he2U"
                 />
                 <Compo
                   title="11강 - 로그 기본다지기"
                   time="37분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217083&authkey=!AMXzY9vP1WOKDD0
-"
+                  link="https://youtu.be/P9wf_wi6aKo"
                 />
                 <Compo
                   title="12강 - 로그 실력다지기(1)"
                   time="46분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217114&authkey=!APfH6gfeVZ9G2j0
-"
+                  link="https://youtu.be/tIw8tCq-FLs"
                 />
                 <Compo
                   title="13강 - 로그 실력다지기(2)"
                   time="51분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217093&authkey=!ACTRDw5FNrAZIE4
-"
+                  link="https://youtu.be/Hd17azGrxDU"
                 />
               </tbody>
             </table>
@@ -134,50 +121,42 @@ export default function Mathone() {
                 <Compo
                   title="14강 - 지수함수(1)"
                   time="50분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217111&authkey=!AKWCF1l5OIJDHJw
-"
+                  link="https://youtu.be/TKQaf0E63ZU"
                 />
                 <Compo
                   title="15강 - 지수함수(2)"
                   time="44분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217085&authkey=!AMJK8-GLrx90UpU
-"
+                  link="https://youtu.be/3mtKE-HUPs4"
                 />
                 <Compo
                   title="16강 - 지수함수(3)"
                   time="61분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217120&authkey=!AE1FM2alPF--btQ
-"
+                  link="https://youtu.be/DfM91enmnBQ"
                 />
                 <Compo
                   title="17강 - 지수함수(4)"
                   time="46분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217107&authkey=!AJHhcKFBhDI-Hgw
-"
+                  link="https://youtu.be/X7ANA4JOvko"
                 />
                 <Compo
                   title="18강 - 지수함수(5)"
                   time="55분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217124&authkey=!AIoHLFlxoYCX78M
-"
+                  link="https://youtu.be/GlbQqXverNk"
                 />
                 <Compo
                   title="19강 - 지수함수(6)+기본다지기"
                   time="41분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217138&authkey=!AH5xmXbvyTAxLF8
-                  "
+                  link="https://youtu.be/YBycRKdOQa4"
                 />
                 <Compo
                   title="20강 - 지수함수 실력다지기(1)"
                   time="49분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217092&authkey=!AFSDszMmkPKkHjM
-                  "
+                  link="https://youtu.be/hN-WNP8OgC0"
                 />
                 <Compo
                   title="21강 - 지수함수 실력다지기(2)"
                   time="67분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217117&authkey=!AN2KEHTZZrFlAgU
-                  "
+                  link="https://youtu.be/yl-4kJy_m5Q"
                 />
               </tbody>
             </table>
@@ -195,50 +174,42 @@ export default function Mathone() {
                 <Compo
                   title="22강 - 로그함수(1)"
                   time="52분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217089&authkey=!AATF1MaEv8Q5kcs
-"
+                  link="https://youtu.be/YK4_L6lCdUY"
                 />
                 <Compo
                   title="23강 - 로그함수(2)"
                   time="47분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217096&authkey=!AP_Cdx47oTc4P2A
-"
+                  link="https://youtu.be/jCYaXZlmRWw"
                 />
                 <Compo
                   title="24강 - 로그함수(3)"
                   time="49분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217116&authkey=!AD0Zxl4IaYUHNTg
-"
+                  link="https://youtu.be/8YGt7XPjl_M"
                 />
                 <Compo
                   title="25강 - 로그함수(4)"
                   time="53분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217106&authkey=!AN9G5Rk9roTNxw8
-"
+                  link="https://youtu.be/1kPIFbqbPHU"
                 />
                 <Compo
                   title="26강 - 로그함수(5)"
                   time="26분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217136&authkey=!AGmRKT-r8CNUXsY
-"
+                  link="https://youtu.be/5v5dtFtf3aM"
                 />
                 <Compo
                   title="27강 - 로그함수 기본다지기"
                   time="28분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217084&authkey=!AIZt1RsJUgnvPPA
-"
+                  link="https://youtu.be/VPtUnbKQAx0"
                 />
                 <Compo
                   title="28강 - 로그함수 실력다지기(1)"
                   time="56분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217121&authkey=!AFFuh7lBbR0-0_0
-                  "
+                  link="https://youtu.be/GDwgdgfcaYE"
                 />
                 <Compo
                   title="29강 - 로그함수 실력다지기(2)"
                   time="62분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217086&authkey=!AGR0iJH3tc_sAzI
-                  "
+                  link="https://youtu.be/gBksIexvr5Q"
                 />
               </tbody>
             </table>
@@ -256,44 +227,37 @@ export default function Mathone() {
                 <Compo
                   title="30강 - 로그 방정식(1)"
                   time="49분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217087&authkey=!AI7YiPNehuGWVpk
-"
+                  link="https://youtu.be/OLUtL_oZfA0"
                 />
                 <Compo
                   title="31강 - 로그 방정식&부등식(2)"
                   time="59분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217080&authkey=!APqORQAK8R-PmPM
-                  "
+                  link="https://youtu.be/uJ1vtHujZtk"
                 />
                 <Compo
                   title="32강 - 로그 방정식&부등식(3)"
                   time="44분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217128&authkey=!AHMPvqPvf2nhtjQ
-                  "
+                  link="https://youtu.be/xA7UeimFV3o"
                 />
                 <Compo
                   title="33강 - 로그 방정식&부등식(4)"
                   time="59분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217123&authkey=!AJ25a8bR0x62QM8
-                  "
+                  link="https://youtu.be/VEo8QJqkcUw"
                 />
                 <Compo
                   title="34강 - 로그 방정식&부등식 기본다지기"
                   time="27분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217081&authkey=!AFc20kn7AO5ZA1Q
-                  "
+                  link="https://youtu.be/bjgLeVdZafk"
                 />
                 <Compo
                   title="35강 - 로그 방정식 기본다지기+실력다지기"
                   time="62분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217131&authkey=!ALrUrQt39stXbpg
-                  "
+                  link="https://youtu.be/8IETEWNcEIA"
                 />
                 <Compo
                   title="36강 - 로그 방정식 실력다지기"
                   time="48분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217132&authkey=!ABTMVmvM-RJx-I8
-                  "
+                  link="https://youtu.be/0-oONie13Ak"
                 />
               </tbody>
             </table>
@@ -311,38 +275,32 @@ export default function Mathone() {
                 <Compo
                   title="37강 - 삼각함수(1)"
                   time="57분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217109&authkey=!AInCnZqUvg0Y7m4
-"
+                  link="https://youtu.be/k61ApN0R0mE"
                 />
                 <Compo
                   title="38강 - 삼각함수(2)"
                   time="50분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217091&authkey=!AIFZPJmlusEr0AI
-"
+                  link="https://youtu.be/J-PrbvoU0jE"
                 />
                 <Compo
                   title="39강 - 삼각함수(3)"
                   time="60분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217126&authkey=!AJrK7EcLBBoMW18
-"
+                  link="https://youtu.be/A4xWEvLwx-w"
                 />
                 <Compo
                   title="40강 - 삼각함수(4)"
                   time="45분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217115&authkey=!AFDILjDh1aGn5R4
-"
+                  link="https://youtu.be/4doSHF0E3HQ"
                 />
                 <Compo
                   title="41강 - 삼각함수 기본다지기"
                   time="33분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217129&authkey=!AP40_2oyZvW8EPo
-"
+                  link="https://youtu.be/Oaodx6KV0xQ"
                 />
                 <Compo
                   title="42강 - 삼각함수 실력다지기"
                   time="48분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217118&authkey=!ANOfeIpdqCha-tM
-"
+                  link="https://youtu.be/RwIm-jzK_Wo"
                 />
               </tbody>
             </table>
@@ -360,50 +318,42 @@ export default function Mathone() {
                 <Compo
                   title="43강 - 삼각함수 그래프(1)"
                   time="60분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217101&authkey=!AKXUH84zeTdsFSA
-"
+                  link="https://youtu.be/u-8vhFtn_js"
                 />
                 <Compo
                   title="44강 - 삼각함수 그래프(2)"
                   time="47분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217102&authkey=!AK0L7xQXDMgdegY
-"
+                  link="https://youtu.be/d9x2uZFe9ac"
                 />
                 <Compo
                   title="45강 - 삼각함수 그래프(3)"
                   time="51분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217133&authkey=!ABariaZg6LmBwq4
-"
+                  link="https://youtu.be/E4J1oNoEASM"
                 />
                 <Compo
                   title="46강 - 삼각함수 그래프(4)"
                   time="61분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217134&authkey=!APj4hwtW5QjSvyE
-"
+                  link="https://youtu.be/YyLoodB3Yz4"
                 />
                 <Compo
                   title="47강 - 삼각함수 그래프 기본다지기"
                   time="35분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217097&authkey=!AK17fsyzzRXnSk0
-                  "
+                  link="https://youtu.be/FPEWTTjC4aY"
                 />
                 <Compo
                   title="48강 - 삼각함수 그래프 실력다지기"
                   time="67분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217079&authkey=!AKPp35uKBn4ONt4
-                  "
+                  link="https://youtu.be/bAdPIwZrnMU"
                 />
                 <Compo
                   title="49강 - 삼각함수 활용 (1)"
                   time="47분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217105&authkey=!AJYnUt7L8eRwBzA
-"
+                  link="https://youtu.be/GjnW_5mx8Ps"
                 />
                 <Compo
                   title="50강 - 삼각함수 활용 (2)"
                   time="61분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217100&authkey=!AH6t-4d_eKAgBH4
-"
+                  link="https://youtu.be/7vAIFGJk_9E"
                 />
               </tbody>
             </table>
@@ -421,26 +371,22 @@ export default function Mathone() {
                 <Compo
                   title="51강 - 사인법칙 코사인법칙"
                   time="57분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217113&authkey=!AMTNzo2LW3f3hdA
-"
+                  link="https://youtu.be/S4U5XdYQWmg"
                 />
                 <Compo
                   title="52강 사인법칙 코사인법칙 기본다지기"
                   time="48분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217099&authkey=!AJruVeYa5XOmki0
-                  "
+                  link="https://youtu.be/o54CxZxzo90"
                 />
                 <Compo
                   title="53강 사인법칙 코사인법칙 실력다지기(1)"
                   time="41분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217122&authkey=!AHTsv5f7Oc732R0
-                  "
+                  link="https://youtu.be/PnNyoDMPt-w"
                 />
                 <Compo
                   title="54강 사인법칙 코사인법칙 실력다지기(2)"
                   time="52분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217127&authkey=!AByCK0Rf3S1TlEA
-                  "
+                  link="https://youtu.be/0l01RJYVhd0"
                 />
               </tbody>
             </table>
@@ -458,38 +404,32 @@ export default function Mathone() {
                 <Compo
                   title="55강 - 등차수열(1)"
                   time="31분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217098&authkey=!AODLiCGXEphyuQ0
-"
+                  link="https://youtu.be/sHEJ1ODdJe0"
                 />
                 <Compo
                   title="56강 - 등차수열(2)"
                   time="44분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217094&authkey=!AOSnhUDrdZQ67B8
-"
+                  link="https://youtu.be/NXWv6mjOXck"
                 />
                 <Compo
                   title="57강 - 등차수열(3)"
                   time="49분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217088&authkey=!ADyaSndMNGX4MGU
-"
+                  link="https://youtu.be/MtN-DRp6E-Y"
                 />
                 <Compo
                   title="58강 - 등차수열 기본다지기"
                   time="35분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217137&authkey=!ABZcUMCOv6WKdLM
-"
+                  link="https://youtu.be/RLBWDHFnAOA"
                 />
                 <Compo
                   title="59강 - 등차수열 실력다지기(1)"
                   time="48분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217135&authkey=!APtN0yEYvDJE1GM
-                  "
+                  link="https://youtu.be/cM2w-Wg1J1E"
                 />
                 <Compo
                   title="60강 - 등차수열 실력다지기(2)"
                   time="55분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217125&authkey=!ANRR1KYqG59JXLI
-                  "
+                  link="https://youtu.be/5SUz8pLzDbY"
                 />
               </tbody>
             </table>
@@ -507,32 +447,27 @@ export default function Mathone() {
                 <Compo
                   title="61강 - 등비수열(1)"
                   time="45분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217205&authkey=!AJZuX47HGVifpkA
-"
+                  link="https://youtu.be/FdUbC4-KbjU"
                 />
                 <Compo
                   title="62강 - 등비수열(2)"
                   time="45분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217204&authkey=!ADHQCEZXcUtEJ-E
-"
+                  link="https://youtu.be/B4U6b4g-9h8"
                 />
                 <Compo
                   title="63강 - 등비수열(3)"
                   time="45분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217203&authkey=!AAkfJ8irHtkvK6w
-"
+                  link="https://youtu.be/ZKSpMMJTPgo"
                 />
                 <Compo
                   title="64강 - 등비수열 기본다지기+실력다지기(1)"
                   time="45분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217201&authkey=!AAYwDNtVpTavqPo
-                  "
+                  link="https://youtu.be/O1fAJtKi-hI"
                 />
                 <Compo
                   title="65강 - 등비수열 실력다지기(2)"
                   time="45분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217202&authkey=!AE76gB_qpPeqUGI
-                  "
+                  link="https://youtu.be/i9MfgPIek2g"
                 />
               </tbody>
             </table>
@@ -550,44 +485,37 @@ export default function Mathone() {
                 <Compo
                   title="66강 - 여러가지 수열(1)"
                   time="45분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217200&authkey=!AEXrEFijRFEx-aw
-"
+                  link="https://youtu.be/PvBemi2BURU"
                 />
                 <Compo
                   title="67강 - 여러가지 수열(2)"
                   time="45분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217198&authkey=!AOWJFKHCIubGH4A
-"
+                  link="https://youtu.be/BkdNShFw1k0"
                 />
                 <Compo
                   title="68강 - 여러가지 수열(3)"
                   time="45분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217199&authkey=!AFZ5y1lHzGs0Pc0
-"
+                  link="https://youtu.be/9sdePiu52eI"
                 />
                 <Compo
                   title="69강 - 여러가지 수열(4)"
                   time="45분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217197&authkey=!AOdZFyRrKp-WG8o
-"
+                  link="https://youtu.be/Ds0FG0liLKg"
                 />
                 <Compo
                   title="70강 - 여러가지 수열 기본다지기"
                   time="45분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217194&authkey=!ANlY8RUq6JZRMvg
-                  "
+                  link="https://youtu.be/XuzjT0XHayo"
                 />
                 <Compo
                   title="71강 - 여러가지 수열 실력다지기(1)"
                   time="45분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217195&authkey=!ANsHr68KZbzgD4c
-                  "
+                  link="https://youtu.be/SeJpRdWP_Ns"
                 />
                 <Compo
                   title="72강 - 여러가지 수열 실력다지기(2)"
                   time="45분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217196&authkey=!AC1cwh8ov5oBnFg
-                  "
+                  link="https://youtu.be/C0kUnbdNAv0"
                 />
               </tbody>
             </table>
@@ -605,37 +533,32 @@ export default function Mathone() {
                 <Compo
                   title="73강 - 수열의 귀납적 정의(1)"
                   time="45분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217193&authkey=!AIlzBgMAaA7K2Tk
-                  "
+                  link="https://youtu.be/ExBirEfxOi4"
                 />
                 <Compo
                   title="74강 - 수열의 귀납적 정의(2)"
                   time="45분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217192&authkey=!APJgzcMaG3b1ffs
-                  "
+                  link="https://youtu.be/HfLazw2f0mY"
                 />
                 <Compo
                   title="75강 - 수열의 귀납적 정의(3)"
                   time="45분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217191&authkey=!ADz6Xh0sFHJcq2I
-                  "
+                  link="https://youtu.be/RTfAHeJreJg"
                 />
                 <Compo
                   title="76강 - 수학적 귀납법(4)"
                   time="45분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217190&authkey=!AEpqXQmMInE57n0
-"
+                  link="https://youtu.be/VV_HX5OmuFU"
                 />
                 <Compo
                   title="77강 - 수학적 귀납법 기본다지기"
                   time="45분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217188&authkey=!AEvPQfUmF0sfcKM
-                  "
+                  link="https://youtu.be/bB0dOAkzRp4"
                 />
                 <Compo
                   title="78강 - 수학적 귀납법 실력다지기"
                   time="45분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217189&authkey=!AP3AMDlMwqQXrws"
+                  link="https://youtu.be/hsOWvzqqMAM"
                 />
               </tbody>
             </table>

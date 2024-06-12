@@ -38,13 +38,12 @@ export default function Mathtwo() {
                 <Compo
                   title="1강 - 함수의 극한(1)"
                   time="55분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217152&authkey=!ALEE8INr9NTRCRg"
+                  link=""
                 />
                 <Compo
                   title="2강 - 함수의 극한(2)"
                   time="52분"
-                  link="https://onedrive.live.com/download?resid=92410439578FF532%217168&authkey=!AKpsb29HT9ETcpQ
-"
+                  link=""
                 />
                 <Compo
                   title="3강 - 함수의 극한(3)"
